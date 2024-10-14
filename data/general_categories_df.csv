@@ -1,0 +1,54 @@
+,place_name,distance,main_latitude,main_longitude,address,searched_category,category_name,city
+0,Fun España Corredor del Henares,142.0,40.48307,-3.364962,"Calle Mayor, 1, 28801 Alcalá de Henares Madrid",Fun España Corredor del Henares,Funeral Home,alcala-de-henares
+1,Funehenar,290.0,40.481485,-3.367856,"Calle Mayor, 83, 28801 Alcalá de Henares Comunidad de Madrid",Funehenar,Funeral Home,alcala-de-henares
+2,beXcaper Alcalá,471.0,40.483713,-3.369507,"Calle Madre de Dios, 5, 28801 Alcalá de Henares Comunidad de Madrid",beXcaper Alcalá,Escape Room,alcala-de-henares
+0,Grupo Funespana,201.0,40.347957,-3.826834,"Espada, 2, 28921 Alcorcón Madrid",Grupo Funespana,Funeral Home,alcorcon
+1,Servicios Funerarios Montero,479.0,40.351475,-3.833318,"Avenida Villaviciosa, s/n, 28922 Alcorcón Comunidad de Madrid",Servicios Funerarios Montero,Funeral Home,alcorcon
+2,Grumon Inversiones,519.0,40.352161,-3.830659,"Avenida Villaviciosa, s/n, 28922 Alcorcón Comunidad de Madrid",Grumon Inversiones,Funeral Home,alcorcon
+0,Tanatorio de Aranjuez,52.0,40.032061,-3.603376,"Gonzalo Chacón Polígono Industrial Gonzalo Chacón, s/n, 28300 Aranjuez Madrid",Tanatorio de Aranjuez,Funeral Home,aranjuez
+1,Servicios Funerarios de Aranjuez,391.0,40.028739,-3.603173,"Calle del Almíbar, 175, 28300 Aranjuez Madrid",Servicios Funerarios de Aranjuez,Funeral Home,aranjuez
+0,Servicios Funerarios Nuñez,439.0,40.300363,-3.443101,"Leonor de Cortinas, 17, 28500 Arganda del Rey Comunidad de Madrid",Servicios Funerarios Nuñez,Funeral Home,arganda-del-rey
+1,Servicios Funerarios Alcala Torrejon,444.0,40.303466,-3.441938,"Cmno Cementerio del, s/n, 28500 Arganda del Rey Madrid",Servicios Funerarios Alcala Torrejon,Funeral Home,arganda-del-rey
+0,Gefinsa,66.0,40.404749,-3.876384,"Calle del Arco, 6, 28660 Boadilla del Monte Madrid",Gefinsa,Funeral Home,boadilla-del-monte
+0,El Garito de la Mafia,146.0,40.857904,-3.711072,"Calle de la Fuente Grande, 4, 28720 Bustarviejo Comunidad de Madrid",El Garito de la Mafia,Arcade,bustarviejo
+0,Localfuner,242.0,40.159384,-3.618327,"Nogal, s/n, 28350 Ciempozuelos Madrid",Localfuner,Funeral Home,ciempozuelos
+0,Funeraria Nuestra Señora de los Remedios,34.0,40.658857,-3.765578,"Plaza del Pueblo, 10, 28770 Colmenar Viejo Madrid",Funeraria Nuestra Señora de los Remedios,Funeral Home,colmenar-viejo
+0,Cementerio,497.0,40.279265,-3.788256,"Calle de la Fuente, 0, 28944 Fuenlabrada Madrid",Cementerio,Cemetery,fuenlabrada
+0,Funeraria Galapagar,66.0,40.576447,-4.00484,"Plaza Caño, s/n, 28260 Galapagar Comunidad de Madrid",Funeraria Galapagar,Funeral Home,galapagar
+1,Funerarias Galapagar l,196.0,40.576148,-4.005273,"Plaza del Caño, 0, 28260 Galapagar Madrid",Funerarias Galapagar l,Funeral Home,galapagar
+0,Grupo funespaña,218.0,40.305147,-3.732606,"Polvoranca, 4, 28901 Getafe Madrid",Grupo funespaña,Funeral Home,getafe
+1,Alfonmatic,417.0,40.307161,-3.728091,"Calle Jose Barrilero, 2, 28901 Getafe Comunidad de Madrid",Alfonmatic,Arcade,getafe
+2,Servicios Funerarios Montero,485.0,40.303404,-3.730052,"Lug. Matadero Municipal, s/n, 28901 Getafe Madrid",Servicios Funerarios Montero,Funeral Home,getafe
+0,El arte de liarte,154.0,40.674745,-4.088738,"Calle Carmen Cabezuelo, 10, 28440 Guadarrama Comunidad de Madrid",El arte de liarte,Sports Bar,guadarrama
+1,Servicios Funerarios Nuestra Señora de la Jarosa,246.0,40.674962,-4.087261,"Calle Daoiz y Velarde, 21, 28440 Guadarrama Madrid",Servicios Funerarios Nuestra Señora de la Jarosa,Funeral Home,guadarrama
+0,Comunidad Judia de Madrid,3.0,40.622709,-3.907186,"Carretera Torrelodones-Colmenar Viejo M-601, 28240 Hoyo de Manzanares Madrid",Comunidad Judia de Madrid,Funeral Home,hoyo-de-manzanares
+0,Interfunerarias,98.0,40.417586,-3.703504,"Calle de Máiquez, 36, 28009 Madrid Comunidad de Madrid",Interfunerarias,Funeral Home,madrid
+1,NewDimension,238.0,40.415368,-3.701377,"Calle Núñez de Arce, 14, 28012 Madrid Comunidad de Madrid",NewDimension,Escape Room,madrid
+2,Five Mon-keys Escape game,257.0,40.415813,-3.706395,"Calle de la Sal, 2, 28012 Madrid Comunidad de Madrid",Five Mon-keys Escape game,Escape Room,madrid
+3,iReal,367.0,40.415328,-3.699633,"Calle Echegaray, 16, Madrid Comunidad de Madrid",iReal,Arcade,madrid
+4,Bizkaiko Foru Aldundia,371.0,40.419888,-3.702228,"Gran Via, 25, Madrid Comunidad de Madrid",Bizkaiko Foru Aldundia,Home Improvement Service,madrid
+5,Organismo Autonomo de Trabajo Penitenciario y Formacion Para el Empleo,450.0,40.416938,-3.698265,"Cedaceros, 11, 28014 Madrid Madrid",Organismo Autonomo de Trabajo Penitenciario y Formacion Para el Empleo,Prison,madrid
+0,Servicios Funerarios Majadahonda,91.0,40.472296,-3.872823,"Calle Mirasierra, 8, 28220 Majadahonda Madrid",Servicios Funerarios Majadahonda,Funeral Home,majadahonda
+1,Gefinsa,224.0,40.471229,-3.871277,"Calle Gran Vía, 33, 28220 Majadahonda Madrid",Gefinsa,Funeral Home,majadahonda
+0,Servicios Funerarios de Morata,196.0,40.230519,-3.434865,"Calle de la Morería, 13, 28530 Morata de Tajuña Comunidad de Madrid",Servicios Funerarios de Morata,Funeral Home,morata-de-tajuna
+0,Golden Escape Room Madrid,25.0,40.323665,-3.86509,"Calle Villaamil, 1, 28934 Madrid Comunidad de Madrid",Golden Escape Room Madrid,Escape Room,mostoles
+1,Asef,181.0,40.322297,-3.865586,"Calle Fausto Fraile, 5, 28934 Móstoles Madrid",Asef,Funeral Home,mostoles
+0,Centro Penitenciario de Madrid IV,40.0,40.284908,-4.013635,"Carretera N-v, Km 27,7, 28600 Navalcarnero Comunidad de Madrid",Centro Penitenciario de Madrid IV,Prison,navalcarnero
+1,Sefuval,63.0,40.287301,-4.013787,"Zafiro, 121, 28600 Navalcarnero Madrid",Sefuval,Funeral Home,navalcarnero
+2,Albia Gestion de Servicios,63.0,40.287301,-4.013787,"Zafiro, 119, 28600 Navalcarnero Madrid",Albia Gestion de Servicios,Funeral Home,navalcarnero
+3,Servicios Funerarios el Carmen Navalcarnero,220.0,40.287203,-4.016812,"Jacinto González, 53, 28600 Navalcarnero Madrid",Servicios Funerarios el Carmen Navalcarnero,Funeral Home,navalcarnero
+0,Enjoy The Ride,89.0,40.50441,-3.530871,"Calle Real, 19, 28860 Paracuellos de Jarama Comunidad de Madrid",Enjoy The Ride,Whisky Bar,paracuellos-de-jarama
+0,Algomsa,185.0,40.237288,-3.774069,"Lugar Monte Tabor, 1, 28981 Parla Madrid",Algomsa,Funeral Home,parla
+1,Almoguera Gomez Servicios y Asistencia,187.0,40.237225,-3.774095,"Avenida Juan Carlos I, s/n, 28981 Parla Madrid",Almoguera Gomez Servicios y Asistencia,Funeral Home,parla
+0,Grupo funespaña,773.0,40.432638,-3.813048,"Cno. Alcorcón, 10, 28223 Pozuelo de Alarcón Comunidad de Madrid",Grupo funespaña,Funeral Home,pozuelo-de-alarcon
+0,Interfunerarias,53.0,40.493305,-3.875206,"Avenida Ntra. Sra. del Retamar, 14 Bajo, 28232 Las Rozas de Madrid Madrid",Interfunerarias,Funeral Home,rozas-de-madrid-las
+1,Memora las Rozas,129.0,40.493261,-3.874304,"Doctor Toledo, 14, Toledo Castilla-La Mancha",Memora las Rozas,Funeral Home,rozas-de-madrid-las
+2,Interfunerarias,391.0,40.4951,-3.879823,"Avenida Polideportivo, s/n, 28231 Las Rozas de Madrid Madrid",Interfunerarias,Funeral Home,rozas-de-madrid-las
+3,Servicios Funerarios San Miguel Arcangel,401.0,40.492722,-3.871155,"Calle Mar Oceana, 13, 28231 Las Rozas de Madrid Madrid",Servicios Funerarios San Miguel Arcangel,Cemetery,rozas-de-madrid-las
+0,Cafe Teatro,105.0,40.3617,-4.397989,"Plaza Rucero, 1, 28680 San Martín de Valdeiglesias Comunidad de Madrid",Cafe Teatro,Comedy Club,san-martin-de-valdeiglesias
+0,DESCIFRA Escape Room,69.0,40.547384,-3.625235,"Calle Real, 56, 28703 San Sebastián de los Reyes Comunidad de Madrid",DESCIFRA Escape Room,Escape Room,san-sebastian-de-los-reyes
+0,Centro Penitenciario Madrid V (Soto del Real) - Información,358.0,40.755491,-3.783359,"Carretera C-611, 28791 Soto del Real Comunidad de Madrid",Centro Penitenciario Madrid V (Soto del Real) - Información,Prison,soto-del-real
+0,Funeraria Tanatorio de Tielmes,372.0,40.243168,-3.31411,"Calle Carretera de Villarejo, 5, 28550 Tielmes Comunidad de Madrid",Funeraria Tanatorio de Tielmes,Funeral Home,tielmes
+0,Funeraria Nuestra Señora de los Remedios. Tanatorio Torremocha de Jarama,176.0,40.836952,-3.498147,"Calle Canal de Isabel II, 32, 28189 Torremocha de Jarama Comunidad de Madrid",Funeraria Nuestra Señora de los Remedios. Tanatorio Torremocha de Jarama,Funeral Home,torremocha-de-jarama
+0,Funeraria García Adrada,346.0,40.273565,-4.303321,"Plaza Palacio, 9, 28630 Villa del Prado Madrid",Funeraria García Adrada,Funeral Home,villa-del-prado
+1,La Poveda Servicios Funerarios,372.0,40.27926,-4.302351,"Avenida Hospital, 7, 28630 Villa del Prado Madrid",La Poveda Servicios Funerarios,Funeral Home,villa-del-prado
