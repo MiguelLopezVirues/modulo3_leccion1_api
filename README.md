@@ -1,9 +1,3 @@
-[Response #3]
-
-Sure! Here's the revised README structure for your Foursquare project following the example you provided:
-
----
-
 # 📊 Foursquare Project - Location Insights and Analytics
 
 <div style="text-align: center;">
@@ -91,12 +85,8 @@ Contributions are welcome! Feel free to open a pull request or an issue for any 
 
 ## ✒️ Authors
 
-Your Name - [GitHub Profile](https://github.com/yourusername)  
+Miguel López Virués - [GitHub Profile](https://github.com/miguellopezvirues)  
 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
---- 
-
-This format mirrors the example you've provided! Let me know if you'd like to adjust anything.
