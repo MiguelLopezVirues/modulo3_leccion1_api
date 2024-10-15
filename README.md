@@ -6,9 +6,9 @@
 
 ## 📝 Project Overview
 
-This project analyzes location-based data from Foursquare to uncover patterns, identify popular venues, and provide insights for improving urban planning and business decision-making.
+This project analyzes location-based data from Foursquare to identify venues useful to a business. In this case, a film production company is going to produce a reality TV Show where friends prank another friend, after drinks, and scare him to death simulating paranormal or unnatural events. , and provide insights for improving urban planning and business decision-making.
 
-The analysis covers venue distribution across various categories, user behavior trends, and how external factors such as seasonality influence visitation patterns.
+The exploration covers making requests venue distribution across various categories, user behavior trends, and how external factors such as seasonality influence visitation patterns.
 
 Key objectives:
 
@@ -38,24 +38,21 @@ To run this project, you will need the following tools and libraries:
 - Python 3.8+
 - pandas
 - numpy
-- matplotlib
-- seaborn
-- folium
-- scikit-learn
+- geopy
+- foursquare API
 
 **Documentation Links:**
 - [Pipenv Documentation](https://pipenv.pypa.io/en/latest/)  
 - [pandas Documentation](https://pandas.pydata.org/)  
 - [NumPy Documentation](https://numpy.org/)  
-- [Matplotlib Documentation](https://matplotlib.org/)  
-- [Seaborn Documentation](https://seaborn.pydata.org/)  
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)  
+- [Geopy Documentation](https://geopy.readthedocs.io/en/stable/)
+- [Foursquare API Documentation](https://developer.foursquare.com/)
 
 #### Setting up the Environment with Pipenv
 
 Clone this repository by running the following commands:
 ```bash
-git clone https://github.com/username/foursquare-project
+git clone https://github.com/MiguelLopezVirues/modulo3_leccion1_api
 ```
 
 To replicate the project's environment, use Pipenv with the included ``Pipfile.lock``:
