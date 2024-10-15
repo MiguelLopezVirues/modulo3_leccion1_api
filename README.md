@@ -73,8 +73,6 @@ For detailed results, please check the ``data_analysis.ipynb`` notebook, which c
 ## 🔄 Next Steps
 
 - Refine venue clustering methods to enhance location-based recommendations.
-- Analyze the impact of external factors like weather on venue visitation.
-- Explore predictive modeling for user engagement trends.
 
 ## 🤝 Contributions
 
