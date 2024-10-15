@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ## 📊 Results and Conclusions
 
-For detailed results, please check the ``data_analysis.ipynb`` notebook, which contains findings and suggestions for optimizing venue engagement and improving business strategies.
+For detailed results, please check the ``data_analysis.ipynb`` notebook, which contains the process of extracting the information.
 
 ## 🔄 Next Steps
 
